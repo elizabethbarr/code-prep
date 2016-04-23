@@ -11,3 +11,48 @@ $icon-font-path: "../bower_components/bootstrap-sass/assets/fonts/bootstrap/";
   padding: 0.2em 0;
 }
 
+body {
+  margin: 0;
+}
+
+nav ul {
+  margin: 0;
+}
+
+.hero-banner h1 {
+  margin: 0;
+}
+
+/**
+ * Basic styles
+ */
+body {
+  font-family: 'Droid Serif';
+  color: #90172a;
+}
+
+.container {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  background: #B1d4cd;
+}
+
+.hero-banner {
+  height: 400px;
+  background: url('../images/yacht2.jpg') fixed;
+  background-size: cover;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+footer {
+  background: #B1d4cd;
+}
+
